@@ -12,3 +12,4 @@ class Empresa:
 if __name__ == '__main__':
     print('Executando galaxia_6_mundo_2_a.py')
     print('Esta mensagem foi alterada no GitHub')
+print('Esta mensagem foi editada Android Zfold') 
